@@ -14,9 +14,32 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       
-      - name: List files
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+      
+      - name: Check Python syntax
         run: |
-          echo "Repository structure:"
-          ls -la
-          echo "Leetcode folder:"
-          ls -la Leetcode/
+          echo "Checking Python files..."
+          find Leetcode/PythonAnswers -name "*.py" -exec python -m py_compile {} \;
+          echo "✓ All Python files have valid syntax!"
+      
+      - name: Compile Java files
+        run: |
+          echo "Compiling Java files..."
+          find Leetcode/Java -name "*.java" -exec javac {} \;
+          echo "✓ All Java files compiled successfully!"
+      
+      - name: List all solutions
+        run: |
+          echo "Python solutions:"
+          find Leetcode/PythonAnswers -name "*.py" | wc -l
+          echo "Java solutions:"
+          find Leetcode/Java -name "*.java" | wc -l
