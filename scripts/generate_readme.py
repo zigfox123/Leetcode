@@ -3,10 +3,18 @@ from pathlib import Path
 
 def get_solution_files():
     """Find all Python and Java solution files"""
-    leetcode_dir = Path("Leetcode")
+    # Your structure has Leetcode/Leetcode/... so we need to adjust
+    base_dir = Path("Leetcode")
     
-    python_files = list(leetcode_dir.glob("PythonAnswers/**/*.py"))
-    java_files = list(leetcode_dir.glob("Java/**/*.java"))
+    python_files = []
+    java_files = []
+    
+    # Find all .py and .java files recursively
+    for py_file in base_dir.rglob("*.py"):
+        python_files.append(py_file)
+    
+    for java_file in base_dir.rglob("*.java"):
+        java_files.append(java_file)
     
     return python_files, java_files
 
@@ -30,9 +38,8 @@ My solutions to LeetCode problems in Python and Java.
     
     if python_files:
         for file in sorted(python_files):
-            problem_name = file.stem.replace("_", " ").title()
-            relative_path = file.relative_to(Path.cwd())
-            readme_content += f"- [{problem_name}]({relative_path})\n"
+            problem_name = file.stem.replace("_", " ").replace("-", " ").title()
+            readme_content += f"- [{problem_name}]({file})\n"
     else:
         readme_content += "No Python solutions yet.\n"
     
@@ -40,9 +47,8 @@ My solutions to LeetCode problems in Python and Java.
     
     if java_files:
         for file in sorted(java_files):
-            problem_name = file.stem.replace("_", " ").title()
-            relative_path = file.relative_to(Path.cwd())
-            readme_content += f"- [{problem_name}]({relative_path})\n"
+            problem_name = file.stem.replace("_", " ").replace("-", " ").title()
+            readme_content += f"- [{problem_name}]({file})\n"
     else:
         readme_content += "No Java solutions yet.\n"
     
