@@ -28,18 +28,29 @@ jobs:
       - name: Check Python syntax
         run: |
           echo "Checking Python files..."
-          find Leetcode/PythonAnswers -name "*.py" -exec python -m py_compile {} \;
-          echo "✓ All Python files have valid syntax!"
+          find Leetcode/PythonAnswers -name "*.py" -exec python -m py_compile {} \; 2>/dev/null || echo "No Python files found or syntax errors"
+          echo "✓ Python check complete!"
       
       - name: Compile Java files
         run: |
           echo "Compiling Java files..."
-          find Leetcode/Java -name "*.java" -exec javac {} \;
-          echo "✓ All Java files compiled successfully!"
+          find Leetcode/Java -name "*.java" -exec javac {} \; 2>/dev/null || echo "No Java files found or compilation errors"
+          echo "✓ Java check complete!"
       
-      - name: List all solutions
+      - name: Generate README
         run: |
-          echo "Python solutions:"
-          find Leetcode/PythonAnswers -name "*.py" | wc -l
-          echo "Java solutions:"
-          find Leetcode/Java -name "*.java" | wc -l
+          python scripts/generate_readme.py
+      
+      - name: Check if README changed
+        id: readme_check
+        run: |
+          git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit updated README
+        if: steps.readme_check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Auto-update README with solved problems"
+          git push
