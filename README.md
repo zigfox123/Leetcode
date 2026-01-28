@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python and Java.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 17
-- **Python Solutions:** 12
+- **Total Solutions:** 18
+- **Python Solutions:** 13
 - **Java Solutions:** 5
 
 ## 🐍 Python Solutions
@@ -24,6 +24,7 @@ My solutions to LeetCode problems in Python and Java.
 - [Longestcommonprefix](Leetcode/PythonAnswers/Easy/LongestCommonPrefix.py)
 - [Romantointeger](Leetcode/PythonAnswers/Easy/RomantoInteger.py)
 - [Validparentheses](Leetcode/PythonAnswers/Easy/ValidParentheses.py)
+- [Containermostwater](Leetcode/PythonAnswers/Medium/ContainerMostWater.py)
 
 ## ☕ Java Solutions
 
