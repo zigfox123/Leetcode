@@ -57,14 +57,14 @@ My solutions to LeetCode problems in Python, Java, and C++.
     else:
         readme_content += "No Java solutions yet.\n"
 
-    readme_content += "\n## ☕ C++ Solutions\n\n"    
+    readme_content += "\n## 🇨 C++ Solutions\n\n"    
     
     if cpp_files:
         for file in sorted(cpp_files):
             problem_name = file.stem.replace("_", " ").replace("-", " ").title()
             readme_content += f"- [{problem_name}]({file})\n"
     else:
-        readme_content += "No C++ solutions yet.\n"
+        readme_content += "No 🇨 C++ solutions yet.\n"
 
     readme_content += """
 ---
