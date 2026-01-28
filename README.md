@@ -37,7 +37,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 
-## ☕ C++ Solutions
+## 🇨 C++ Solutions
 
 - [Containermostwater](Leetcode/C++/Medium/ContainerMostWater.c++)
 
