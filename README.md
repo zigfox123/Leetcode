@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 21
+- **Total Solutions:** 22
 - **Python Solutions:** 14
-- **Java Solutions:** 6
+- **Java Solutions:** 7
 - **C++ Solutions:** 1
 
 ## 🐍 Python Solutions
@@ -36,6 +36,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
+- [Lettercombos](Leetcode/Java/Medium/LetterCombos.java)
 
 ## 🇨 C++ Solutions
 
