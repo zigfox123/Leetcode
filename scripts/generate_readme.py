@@ -17,7 +17,7 @@ def get_solution_files():
     for java_file in base_dir.rglob("*.java"):
         java_files.append(java_file)
     
-    for cpp_file in base_dir.rglob("*.cpp"):
+    for cpp_file in base_dir.rglob("*.c++"):
         cpp_files.append(cpp_file)
 
     return python_files, java_files, cpp_files
