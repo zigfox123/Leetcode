@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python and Java.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 18
+- **Total Solutions:** 19
 - **Python Solutions:** 13
-- **Java Solutions:** 5
+- **Java Solutions:** 6
 
 ## 🐍 Python Solutions
 
@@ -33,6 +33,7 @@ My solutions to LeetCode problems in Python and Java.
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
+- [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 
 ---
 
