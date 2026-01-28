@@ -2,13 +2,14 @@
 
 ![Tests](https://github.com/zigfox123/Leetcode/actions/workflows/test-solutions.yml/badge.svg)
 
-My solutions to LeetCode problems in Python and Java.
+My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
 - **Total Solutions:** 19
 - **Python Solutions:** 13
 - **Java Solutions:** 6
+- **C++ Solutions:** 0
 
 ## 🐍 Python Solutions
 
@@ -34,6 +35,10 @@ My solutions to LeetCode problems in Python and Java.
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
+
+## ☕ C++ Solutions
+
+No C++ solutions yet.
 
 ---
 
