@@ -8,6 +8,7 @@ def get_solution_files():
     
     python_files = []
     java_files = []
+    cpp_files = []
     
     # Find all .py and .java files recursively
     for py_file in base_dir.rglob("*.py"):
@@ -16,21 +17,25 @@ def get_solution_files():
     for java_file in base_dir.rglob("*.java"):
         java_files.append(java_file)
     
-    return python_files, java_files
+    for cpp_file in base_dir.rglob("*.cpp"):
+        cpp_files.append(cpp_file)
 
-def generate_readme(python_files, java_files):
+    return python_files, java_files, cpp_files
+
+def generate_readme(python_files, java_files, cpp_files):
     """Generate README content"""
     readme_content = f"""# LeetCode Solutions
 
 ![Tests](https://github.com/zigfox123/Leetcode/actions/workflows/test-solutions.yml/badge.svg)
 
-My solutions to LeetCode problems in Python and Java.
+My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** {len(python_files) + len(java_files)}
+- **Total Solutions:** {len(python_files) + len(java_files) + len(cpp_files)}
 - **Python Solutions:** {len(python_files)}
 - **Java Solutions:** {len(java_files)}
+- **C++ Solutions:** {len(cpp_files)}
 
 ## 🐍 Python Solutions
 
@@ -51,7 +56,16 @@ My solutions to LeetCode problems in Python and Java.
             readme_content += f"- [{problem_name}]({file})\n"
     else:
         readme_content += "No Java solutions yet.\n"
+
+    readme_content += "\n## ☕ C++ Solutions\n\n"    
     
+    if cpp_files:
+        for file in sorted(cpp_files):
+            problem_name = file.stem.replace("_", " ").replace("-", " ").title()
+            readme_content += f"- [{problem_name}]({file})\n"
+    else:
+        readme_content += "No C++ solutions yet.\n"
+
     readme_content += """
 ---
 
@@ -61,13 +75,13 @@ My solutions to LeetCode problems in Python and Java.
     return readme_content
 
 def main():
-    python_files, java_files = get_solution_files()
-    readme_content = generate_readme(python_files, java_files)
+    python_files, java_files, cpp_files = get_solution_files()
+    readme_content = generate_readme(python_files, java_files, cpp_files)
     
     with open("README.md", "w") as f:
         f.write(readme_content)
     
-    print(f"✓ Generated README with {len(python_files)} Python and {len(java_files)} Java solutions")
+    print(f"✓ Generated README with {len(python_files)} Python, {len(java_files)} Java, and {len(cpp_files)} C++ solutions")
 
 if __name__ == "__main__":
     main()
