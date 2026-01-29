@@ -2,15 +2,14 @@ import os
 from pathlib import Path
 
 def get_solution_files():
-    """Find all Python and Java solution files"""
-    # Your structure has Leetcode/Leetcode/... so we need to adjust
+    """Find all Python, Java, and C++ solution files"""
     base_dir = Path("Leetcode")
     
     python_files = []
     java_files = []
     cpp_files = []
     
-    # Find all .py and .java files recursively
+    # Find all .py .c++ and .java files recursively
     for py_file in base_dir.rglob("*.py"):
         python_files.append(py_file)
     
