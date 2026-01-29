@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Tests](https://github.com/zigfox123/Leetcode/actions/workflows/test-solutions.yml/badge.svg)
+![Tests](https://github.com/zigfox123/Leetcode/actions/workflows/test-solutions.yaml/badge.svg)
 
 My solutions to LeetCode problems in Python, Java, and C++.
 
