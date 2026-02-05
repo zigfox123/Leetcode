@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 26
+- **Total Solutions:** 27
 - **Python Solutions:** 17
 - **Java Solutions:** 8
-- **C++ Solutions:** 1
+- **C++ Solutions:** 2
 
 ## 🐍 Python Solutions
 
@@ -44,6 +44,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 🇨 C++ Solutions
 
+- [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
 - [Containermostwater](Leetcode/C++/Medium/ContainerMostWater.c++)
 
 ---
