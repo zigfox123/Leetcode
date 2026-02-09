@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 30
-- **Python Solutions:** 17
+- **Total Solutions:** 31
+- **Python Solutions:** 18
 - **Java Solutions:** 11
 - **C++ Solutions:** 2
 
@@ -18,6 +18,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [Q3](Leetcode/Array_quest/Array1/Q3.py)
 - [Q1](Leetcode/Array_quest/Array2/Q1.py)
 - [Q2](Leetcode/Array_quest/Array2/Q2.py)
+- [Q3](Leetcode/Array_quest/Array2/Q3.py)
 - [1437Klengthsapart](Leetcode/PythonAnswers/Easy/1437KLengthsapart.py)
 - [1Twosum](Leetcode/PythonAnswers/Easy/1TwoSum.py)
 - [20Validparentheses](Leetcode/PythonAnswers/Easy/20ValidParentheses.py)
