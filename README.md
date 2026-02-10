@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 34
-- **Python Solutions:** 21
+- **Total Solutions:** 35
+- **Python Solutions:** 22
 - **Java Solutions:** 11
 - **C++ Solutions:** 2
 
@@ -32,6 +32,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [Romantointeger](Leetcode/PythonAnswers/Easy/RomantoInteger.py)
 - [Transformedarray](Leetcode/PythonAnswers/Easy/TransformedArray.py)
 - [Trionicarray](Leetcode/PythonAnswers/Easy/TrionicArray.py)
+- [Addtwonums](Leetcode/PythonAnswers/Medium/AddTwoNums.py)
 - [Containermostwater](Leetcode/PythonAnswers/Medium/ContainerMostWater.py)
 - [Lettercombos](Leetcode/PythonAnswers/Medium/LetterCombos.py)
 
