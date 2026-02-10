@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 31
-- **Python Solutions:** 18
+- **Total Solutions:** 33
+- **Python Solutions:** 20
 - **Java Solutions:** 11
 - **C++ Solutions:** 2
 
@@ -19,6 +19,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [Q1](Leetcode/Array_quest/Array2/Q1.py)
 - [Q2](Leetcode/Array_quest/Array2/Q2.py)
 - [Q3](Leetcode/Array_quest/Array2/Q3.py)
+- [Q1](Leetcode/Array_quest/Stack/Q1.py)
 - [1437Klengthsapart](Leetcode/PythonAnswers/Easy/1437KLengthsapart.py)
 - [1Twosum](Leetcode/PythonAnswers/Easy/1TwoSum.py)
 - [20Validparentheses](Leetcode/PythonAnswers/Easy/20ValidParentheses.py)
@@ -26,6 +27,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [3507Minimumpairremovaltosortarray](Leetcode/PythonAnswers/Easy/3507MinimumPairRemovaltoSortArray.py)
 - [Countoperationstoobtainzero](Leetcode/PythonAnswers/Easy/CountOperationstoObtainZero.py)
 - [Longestcommonprefix](Leetcode/PythonAnswers/Easy/LongestCommonPrefix.py)
+- [Mergelinkedlists](Leetcode/PythonAnswers/Easy/MergeLinkedLists.py)
 - [Romantointeger](Leetcode/PythonAnswers/Easy/RomantoInteger.py)
 - [Transformedarray](Leetcode/PythonAnswers/Easy/TransformedArray.py)
 - [Trionicarray](Leetcode/PythonAnswers/Easy/TrionicArray.py)
