@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, and C++.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 44
+- **Total Solutions:** 45
 - **Python Solutions:** 31
-- **Java Solutions:** 11
+- **Java Solutions:** 12
 - **C++ Solutions:** 2
 
 ## 🐍 Python Solutions
@@ -50,6 +50,7 @@ My solutions to LeetCode problems in Python, Java, and C++.
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
+- [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
 - [Countoperationstoobtainzero](Leetcode/Java/Easy/CountOperationstoObtainZero.java)
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
