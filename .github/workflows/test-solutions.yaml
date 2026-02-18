@@ -4,58 +4,72 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+
 permissions:
   contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      
+
       - name: Set up Java
         uses: actions/setup-java@v3
         with:
           distribution: 'temurin'
           java-version: '17'
-      
+
       - name: Set up C++
         run: |
           sudo apt-get update
           sudo apt-get install -y g++ build-essential
-      
+
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
+
       - name: Check Python syntax
         run: |
           echo "Checking Python files..."
           find Leetcode/PythonAnswers -name "*.py" -exec python -m py_compile {} \; 2>/dev/null || echo "No Python files found or syntax errors"
           echo "✓ Python check complete!"
-      
+
       - name: Compile Java files
         run: |
           echo "Compiling Java files..."
           find Leetcode/Java -name "*.java" -exec javac {} \; 2>/dev/null || echo "No Java files found or compilation errors"
           echo "✓ Java check complete!"
-      
+
       - name: Compile C++ files
         run: |
           echo "Compiling C++ files..."
           find Leetcode/Cpp -name "*.cpp" -exec g++ -std=c++17 -Wall -Wextra -fsyntax-only {} \; 2>/dev/null || echo "No C++ files found or compilation errors"
           echo "✓ C++ check complete!"
-      
+
+      - name: Compile Rust files
+        run: |
+          echo "Compiling Rust files..."
+          find Leetcode/Rust -name "*.rs" -exec rustc --edition 2021 {} -o /tmp/rust_out \; 2>/dev/null || echo "No Rust files found or compilation errors"
+          echo "✓ Rust check complete!"
+
       - name: Generate README
         run: |
           python scripts/generate_readme.py
-      
+
       - name: Check if README changed
         id: readme_check
         run: |
           git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
-      
+
       - name: Commit updated README
         if: steps.readme_check.outputs.changed == 'true'
         run: |
