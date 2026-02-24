@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 52
-- **Python Solutions:** 31
+- **Total Solutions:** 53
+- **Python Solutions:** 32
 - **Java Solutions:** 12
 - **C++ Solutions:** 3
 - **Rust Solutions:** 6
@@ -29,6 +29,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Addbinary](Leetcode/PythonAnswers/Easy/AddBinary.py)
 - [Binarynumberalternating](Leetcode/PythonAnswers/Easy/BinaryNumberAlternating.py)
 - [Binarywatch](Leetcode/PythonAnswers/Easy/BinaryWatch.py)
+- [Countbinarysubstrings](Leetcode/PythonAnswers/Easy/CountBinarySubstrings.py)
 - [Countoperationstoobtainzero](Leetcode/PythonAnswers/Easy/CountOperationstoObtainZero.py)
 - [Firstoccurence](Leetcode/PythonAnswers/Easy/FirstOccurence.py)
 - [Lenlastword](Leetcode/PythonAnswers/Easy/LenLastWord.py)
