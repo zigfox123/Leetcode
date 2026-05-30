@@ -52,6 +52,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## ☕ Java Solutions
 
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
+- [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
 - [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
@@ -59,7 +60,6 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Transformedarray](Leetcode/Java/Easy/TransformedArray.java)
-- [Twosum](Leetcode/Java/Easy/TwoSum.java)
 - [Validparentheses](Leetcode/Java/Easy/ValidParentheses.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 - [Lettercombos](Leetcode/Java/Medium/LetterCombos.java)
