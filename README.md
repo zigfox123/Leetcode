@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 55
+- **Total Solutions:** 56
 - **Python Solutions:** 34
-- **Java Solutions:** 12
+- **Java Solutions:** 13
 - **C++ Solutions:** 3
 - **Rust Solutions:** 6
 
@@ -61,6 +61,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Transformedarray](Leetcode/Java/Easy/TransformedArray.java)
 - [Validparentheses](Leetcode/Java/Easy/ValidParentheses.java)
+- [3Longestsubstringwithoutrepeatingcharacters](Leetcode/Java/Medium/3LongestSubstringWithoutRepeatingCharacters.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 - [Lettercombos](Leetcode/Java/Medium/LetterCombos.java)
 
