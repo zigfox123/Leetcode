@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 57
+- **Total Solutions:** 58
 - **Python Solutions:** 34
 - **Java Solutions:** 13
-- **C++ Solutions:** 4
+- **C++ Solutions:** 5
 - **Rust Solutions:** 6
 
 ## 🐍 Python Solutions
@@ -68,6 +68,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## 🇨 C++ Solutions
 
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
+- [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
 - [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
 - [Containermostwater](Leetcode/C++/Medium/ContainerMostWater.c++)
