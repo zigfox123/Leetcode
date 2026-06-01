@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 58
+- **Total Solutions:** 61
 - **Python Solutions:** 34
-- **Java Solutions:** 13
-- **C++ Solutions:** 5
+- **Java Solutions:** 15
+- **C++ Solutions:** 6
 - **Rust Solutions:** 6
 
 ## 🐍 Python Solutions
@@ -53,8 +53,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
 - [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
+- [21Mergetwosortedlists](Leetcode/Java/Easy/21MergeTwoSortedLists.java)
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
+- [9Palindromenumber](Leetcode/Java/Easy/9PalindromeNumber.java)
 - [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
 - [Countoperationstoobtainzero](Leetcode/Java/Easy/CountOperationstoObtainZero.java)
 - [Longestcommonprefix](Leetcode/Java/Easy/LongestCommonPrefix.java)
@@ -67,6 +69,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🇨 C++ Solutions
 
+- [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
 - [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
