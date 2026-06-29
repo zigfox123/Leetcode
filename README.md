@@ -6,11 +6,11 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 66
+- **Total Solutions:** 69
 - **Python Solutions:** 39
-- **Java Solutions:** 15
-- **C++ Solutions:** 6
-- **Rust Solutions:** 6
+- **Java Solutions:** 16
+- **C++ Solutions:** 7
+- **Rust Solutions:** 7
 
 ## 🐍 Python Solutions
 
@@ -57,6 +57,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## ☕ Java Solutions
 
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
+- [1967Numsubstrings](Leetcode/Java/Easy/1967NumSubstrings.java)
 - [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
 - [21Mergetwosortedlists](Leetcode/Java/Easy/21MergeTwoSortedLists.java)
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
@@ -75,6 +76,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## 🇨 C++ Solutions
 
 - [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
+- [1967Numsubstrings](Leetcode/C++/Easy/1967NumSubstrings.c++)
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
 - [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
@@ -83,6 +85,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🦀 Rust Solutions
 
+- [1967Numsubstrings](Leetcode/Rust/Easy/1967NumSubstrings.rs)
 - [20Validparentheses](Leetcode/Rust/Easy/20ValidParentheses.rs)
 - [26Removeduplicatesfromsortedarray](Leetcode/Rust/Easy/26RemoveDuplicatesfromSortedArray.rs)
 - [Binarynumberalternating](Leetcode/Rust/Easy/BinaryNumberAlternating.rs)
