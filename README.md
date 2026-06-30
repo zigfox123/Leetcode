@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 70
-- **Python Solutions:** 40
-- **Java Solutions:** 16
+- **Total Solutions:** 72
+- **Python Solutions:** 41
+- **Java Solutions:** 17
 - **C++ Solutions:** 7
 - **Rust Solutions:** 7
 
@@ -49,6 +49,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Transformedarray](Leetcode/PythonAnswers/Easy/TransformedArray.py)
 - [Trionicarray](Leetcode/PythonAnswers/Easy/TrionicArray.py)
 - [Sqrt](Leetcode/PythonAnswers/Easy/sqrt.py)
+- [1358Numsubstringswithchars](Leetcode/PythonAnswers/Medium/1358NumSubstringsWithChars.py)
 - [5Longestpalindromicsubstring](Leetcode/PythonAnswers/Medium/5LongestPalindromicSubstring.py)
 - [6Zigzagconversion](Leetcode/PythonAnswers/Medium/6ZigzagConversion.py)
 - [Addtwonums](Leetcode/PythonAnswers/Medium/AddTwoNums.py)
@@ -70,6 +71,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Romantointeger](Leetcode/Java/Easy/RomantoInteger.java)
 - [Transformedarray](Leetcode/Java/Easy/TransformedArray.java)
 - [Validparentheses](Leetcode/Java/Easy/ValidParentheses.java)
+- [1358Numsubstringswithchars](Leetcode/Java/Medium/1358NumSubstringsWithChars.java)
 - [3Longestsubstringwithoutrepeatingcharacters](Leetcode/Java/Medium/3LongestSubstringWithoutRepeatingCharacters.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 - [Lettercombos](Leetcode/Java/Medium/LetterCombos.java)
