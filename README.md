@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 69
-- **Python Solutions:** 39
+- **Total Solutions:** 70
+- **Python Solutions:** 40
 - **Java Solutions:** 16
 - **C++ Solutions:** 7
 - **Rust Solutions:** 7
@@ -31,6 +31,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [3507Minimumpairremovaltosortarray](Leetcode/PythonAnswers/Easy/3507MinimumPairRemovaltoSortArray.py)
 - [70Climbingstairs](Leetcode/PythonAnswers/Easy/70ClimbingStairs.py)
 - [83Removedupssortedlist](Leetcode/PythonAnswers/Easy/83RemoveDupsSortedList.py)
+- [88Mergesortedarray](Leetcode/PythonAnswers/Easy/88MergeSortedArray.py)
 - [Addbinary](Leetcode/PythonAnswers/Easy/AddBinary.py)
 - [Binarynumberalternating](Leetcode/PythonAnswers/Easy/BinaryNumberAlternating.py)
 - [Binarywatch](Leetcode/PythonAnswers/Easy/BinaryWatch.py)
