@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 74
-- **Python Solutions:** 41
+- **Total Solutions:** 75
+- **Python Solutions:** 42
 - **Java Solutions:** 17
 - **C++ Solutions:** 8
 - **Rust Solutions:** 8
@@ -50,6 +50,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Trionicarray](Leetcode/PythonAnswers/Easy/TrionicArray.py)
 - [Sqrt](Leetcode/PythonAnswers/Easy/sqrt.py)
 - [1358Numsubstringswithchars](Leetcode/PythonAnswers/Medium/1358NumSubstringsWithChars.py)
+- [2812Safestpath](Leetcode/PythonAnswers/Medium/2812SafestPath.py)
 - [5Longestpalindromicsubstring](Leetcode/PythonAnswers/Medium/5LongestPalindromicSubstring.py)
 - [6Zigzagconversion](Leetcode/PythonAnswers/Medium/6ZigzagConversion.py)
 - [Addtwonums](Leetcode/PythonAnswers/Medium/AddTwoNums.py)
