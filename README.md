@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 79
+- **Total Solutions:** 80
 - **Python Solutions:** 43
-- **Java Solutions:** 18
+- **Java Solutions:** 19
 - **C++ Solutions:** 9
 - **Rust Solutions:** 9
 
@@ -65,6 +65,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
 - [21Mergetwosortedlists](Leetcode/Java/Easy/21MergeTwoSortedLists.java)
 - [26Removeduplicatesfromsortedarray](Leetcode/Java/Easy/26RemoveDuplicatesfromSortedArray.java)
+- [2996Smallestmissingintegergreaterthansequentialprefixsum](Leetcode/Java/Easy/2996SmallestMissingIntegerGreaterThanSequentialPrefixSum.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
 - [9Palindromenumber](Leetcode/Java/Easy/9PalindromeNumber.java)
 - [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
