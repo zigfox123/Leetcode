@@ -6,11 +6,11 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 75
-- **Python Solutions:** 42
-- **Java Solutions:** 17
-- **C++ Solutions:** 8
-- **Rust Solutions:** 8
+- **Total Solutions:** 79
+- **Python Solutions:** 43
+- **Java Solutions:** 18
+- **C++ Solutions:** 9
+- **Rust Solutions:** 9
 
 ## 🐍 Python Solutions
 
@@ -51,6 +51,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Sqrt](Leetcode/PythonAnswers/Easy/sqrt.py)
 - [1358Numsubstringswithchars](Leetcode/PythonAnswers/Medium/1358NumSubstringsWithChars.py)
 - [2812Safestpath](Leetcode/PythonAnswers/Medium/2812SafestPath.py)
+- [2958Lengthoflongestsubarraywithatmostkfrequency](Leetcode/PythonAnswers/Medium/2958LengthofLongestSubarrayWithatMostKFrequency.py)
 - [5Longestpalindromicsubstring](Leetcode/PythonAnswers/Medium/5LongestPalindromicSubstring.py)
 - [6Zigzagconversion](Leetcode/PythonAnswers/Medium/6ZigzagConversion.py)
 - [Addtwonums](Leetcode/PythonAnswers/Medium/AddTwoNums.py)
@@ -73,6 +74,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Transformedarray](Leetcode/Java/Easy/TransformedArray.java)
 - [Validparentheses](Leetcode/Java/Easy/ValidParentheses.java)
 - [1358Numsubstringswithchars](Leetcode/Java/Medium/1358NumSubstringsWithChars.java)
+- [2958Lengthoflongestsubarraywithatmostkfrequency](Leetcode/Java/Medium/2958LengthofLongestSubarrayWithatMostKFrequency.java)
 - [3Longestsubstringwithoutrepeatingcharacters](Leetcode/Java/Medium/3LongestSubstringWithoutRepeatingCharacters.java)
 - [Containermostwater](Leetcode/Java/Medium/ContainerMostWater.java)
 - [Lettercombos](Leetcode/Java/Medium/LetterCombos.java)
@@ -86,6 +88,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
 - [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
 - [1358Numsubstringswithchars](Leetcode/C++/Medium/1358NumSubstringsWithChars.c++)
+- [2958Lengthoflongestsubarraywithatmostkfrequency](Leetcode/C++/Medium/2958LengthofLongestSubarrayWithatMostKFrequency.c++)
 - [Containermostwater](Leetcode/C++/Medium/ContainerMostWater.c++)
 
 ## 🦀 Rust Solutions
@@ -97,6 +100,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Romantointeger](Leetcode/Rust/Easy/RomantoInteger.rs)
 - [Twosum](Leetcode/Rust/Easy/TwoSum.rs)
 - [1358Numsubstingswithchars](Leetcode/Rust/Medium/1358NumSubstingsWithChars.rs)
+- [2958Lengthoflongestsubarraywithatmostkfrequency](Leetcode/Rust/Medium/2958LengthofLongestSubarrayWithatMostKFrequency.rs)
 - [Containermostwater](Leetcode/Rust/Medium/ContainerMostWater.rs)
 
 ---
