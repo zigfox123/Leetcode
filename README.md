@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 82
+- **Total Solutions:** 83
 - **Python Solutions:** 43
-- **Java Solutions:** 21
+- **Java Solutions:** 22
 - **C++ Solutions:** 9
 - **Rust Solutions:** 9
 
@@ -61,6 +61,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## ☕ Java Solutions
 
 - [121Besttimetobuyandsellstock](Leetcode/Java/Easy/121BestTimetoBuyandSellStock.java)
+- [125Validpalindrome](Leetcode/Java/Easy/125ValidPalindrome.java)
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
 - [1967Numsubstrings](Leetcode/Java/Easy/1967NumSubstrings.java)
 - [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
