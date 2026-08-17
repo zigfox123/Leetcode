@@ -6,11 +6,11 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 89
+- **Total Solutions:** 92
 - **Python Solutions:** 43
-- **Java Solutions:** 26
-- **C++ Solutions:** 10
-- **Rust Solutions:** 10
+- **Java Solutions:** 27
+- **C++ Solutions:** 11
+- **Rust Solutions:** 11
 
 ## 🐍 Python Solutions
 
@@ -60,6 +60,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## ☕ Java Solutions
 
+- [112Pathsum](Leetcode/Java/Easy/112PathSum.java)
 - [118Pascalstriangle](Leetcode/Java/Easy/118PascalsTriangle.java)
 - [119Pascalstriangleii](Leetcode/Java/Easy/119PascalsTriangleII.java)
 - [121Besttimetobuyandsellstock](Leetcode/Java/Easy/121BestTimetoBuyandSellStock.java)
@@ -89,6 +90,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🇨 C++ Solutions
 
+- [112Pathsum](Leetcode/C++/Easy/112PathSum.c++)
 - [136Singlenumber](Leetcode/C++/Easy/136SingleNumber.c++)
 - [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
 - [1967Numsubstrings](Leetcode/C++/Easy/1967NumSubstrings.c++)
@@ -102,6 +104,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🦀 Rust Solutions
 
+- [112Pathsum](Leetcode/Rust/Easy/112PathSum.rs)
 - [136Singlenumber](Leetcode/Rust/Easy/136SingleNumber.rs)
 - [1967Numsubstrings](Leetcode/Rust/Easy/1967NumSubstrings.rs)
 - [20Validparentheses](Leetcode/Rust/Easy/20ValidParentheses.rs)
