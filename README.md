@@ -6,11 +6,11 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 86
+- **Total Solutions:** 89
 - **Python Solutions:** 43
-- **Java Solutions:** 25
-- **C++ Solutions:** 9
-- **Rust Solutions:** 9
+- **Java Solutions:** 26
+- **C++ Solutions:** 10
+- **Rust Solutions:** 10
 
 ## 🐍 Python Solutions
 
@@ -64,6 +64,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [119Pascalstriangleii](Leetcode/Java/Easy/119PascalsTriangleII.java)
 - [121Besttimetobuyandsellstock](Leetcode/Java/Easy/121BestTimetoBuyandSellStock.java)
 - [125Validpalindrome](Leetcode/Java/Easy/125ValidPalindrome.java)
+- [136Singlenumber](Leetcode/Java/Easy/136SingleNumber.java)
 - [1437Klengthsapart](Leetcode/Java/Easy/1437KLengthsapart.java)
 - [1967Numsubstrings](Leetcode/Java/Easy/1967NumSubstrings.java)
 - [1Twosum](Leetcode/Java/Easy/1TwoSum.java)
@@ -88,6 +89,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🇨 C++ Solutions
 
+- [136Singlenumber](Leetcode/C++/Easy/136SingleNumber.c++)
 - [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
 - [1967Numsubstrings](Leetcode/C++/Easy/1967NumSubstrings.c++)
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
@@ -100,6 +102,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 🦀 Rust Solutions
 
+- [136Singlenumber](Leetcode/Rust/Easy/136SingleNumber.rs)
 - [1967Numsubstrings](Leetcode/Rust/Easy/1967NumSubstrings.rs)
 - [20Validparentheses](Leetcode/Rust/Easy/20ValidParentheses.rs)
 - [26Removeduplicatesfromsortedarray](Leetcode/Rust/Easy/26RemoveDuplicatesfromSortedArray.rs)
