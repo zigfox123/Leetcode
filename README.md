@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 93
-- **Python Solutions:** 43
+- **Total Solutions:** 95
+- **Python Solutions:** 44
 - **Java Solutions:** 28
-- **C++ Solutions:** 11
+- **C++ Solutions:** 12
 - **Rust Solutions:** 11
 
 ## 🐍 Python Solutions
@@ -28,6 +28,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [1Twosum](Leetcode/PythonAnswers/Easy/1TwoSum.py)
 - [20Validparentheses](Leetcode/PythonAnswers/Easy/20ValidParentheses.py)
 - [26Removeduplicatesfromsortedarray](Leetcode/PythonAnswers/Easy/26RemoveDuplicatesfromSortedArray.py)
+- [3069Distributeelementsintotwoarraysi](Leetcode/PythonAnswers/Easy/3069DistributeElementsIntoTwoArraysI.py)
 - [3507Minimumpairremovaltosortarray](Leetcode/PythonAnswers/Easy/3507MinimumPairRemovaltoSortArray.py)
 - [70Climbingstairs](Leetcode/PythonAnswers/Easy/70ClimbingStairs.py)
 - [83Removedupssortedlist](Leetcode/PythonAnswers/Easy/83RemoveDupsSortedList.py)
@@ -96,6 +97,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
 - [1967Numsubstrings](Leetcode/C++/Easy/1967NumSubstrings.c++)
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
+- [3069Distributeelementsintotwoarraysi](Leetcode/C++/Easy/3069DistributeElementsIntoTwoArraysI.c++)
 - [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
 - [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
