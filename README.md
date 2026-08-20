@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 96
+- **Total Solutions:** 97
 - **Python Solutions:** 44
-- **Java Solutions:** 28
+- **Java Solutions:** 29
 - **C++ Solutions:** 12
 - **Rust Solutions:** 12
 
@@ -61,6 +61,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## ☕ Java Solutions
 
+- [100Sametree](Leetcode/Java/Easy/100SameTree.java)
 - [112Pathsum](Leetcode/Java/Easy/112PathSum.java)
 - [118Pascalstriangle](Leetcode/Java/Easy/118PascalsTriangle.java)
 - [119Pascalstriangleii](Leetcode/Java/Easy/119PascalsTriangleII.java)
