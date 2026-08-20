@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.ArrayList;
 
 class Solution{
     public int[] resultArray(int[] nums){
