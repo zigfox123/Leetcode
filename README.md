@@ -6,8 +6,8 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 99
-- **Python Solutions:** 44
+- **Total Solutions:** 100
+- **Python Solutions:** 45
 - **Java Solutions:** 29
 - **C++ Solutions:** 13
 - **Rust Solutions:** 13
@@ -21,6 +21,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [Q2](Leetcode/Array_quest/Array2/Q2.py)
 - [Q3](Leetcode/Array_quest/Array2/Q3.py)
 - [Q1](Leetcode/Array_quest/Stack/Q1.py)
+- [100Sametree](Leetcode/PythonAnswers/Easy/100SameTree.py)
 - [1189Maxballoons](Leetcode/PythonAnswers/Easy/1189MaxBalloons.py)
 - [1437Klengthsapart](Leetcode/PythonAnswers/Easy/1437KLengthsapart.py)
 - [1732Highestaltitude](Leetcode/PythonAnswers/Easy/1732HighestAltitude.py)
