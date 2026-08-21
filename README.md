@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 100
+- **Total Solutions:** 101
 - **Python Solutions:** 45
 - **Java Solutions:** 29
-- **C++ Solutions:** 13
+- **C++ Solutions:** 14
 - **Rust Solutions:** 13
 
 ## 🐍 Python Solutions
@@ -95,6 +95,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 ## 🇨 C++ Solutions
 
 - [100Sametree](Leetcode/C++/Easy/100SameTree.c++)
+- [101Symmetrictree](Leetcode/C++/Easy/101SymmetricTree.c++)
 - [112Pathsum](Leetcode/C++/Easy/112PathSum.c++)
 - [136Singlenumber](Leetcode/C++/Easy/136SingleNumber.c++)
 - [14Lonsgestcommonprefix](Leetcode/C++/Easy/14LonsgestCommonPrefix.c++)
