@@ -6,10 +6,10 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 103
+- **Total Solutions:** 104
 - **Python Solutions:** 46
 - **Java Solutions:** 30
-- **C++ Solutions:** 14
+- **C++ Solutions:** 15
 - **Rust Solutions:** 13
 
 ## 🐍 Python Solutions
@@ -104,6 +104,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [1967Numsubstrings](Leetcode/C++/Easy/1967NumSubstrings.c++)
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
 - [3069Distributeelementsintotwoarraysi](Leetcode/C++/Easy/3069DistributeElementsIntoTwoArraysI.c++)
+- [3622Checkdivisibilitybydigitsumandproduct](Leetcode/C++/Easy/3622CheckDivisibilitybyDigitSumandProduct.c++)
 - [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
 - [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
