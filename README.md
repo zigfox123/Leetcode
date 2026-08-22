@@ -6,9 +6,9 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 101
-- **Python Solutions:** 45
-- **Java Solutions:** 29
+- **Total Solutions:** 103
+- **Python Solutions:** 46
+- **Java Solutions:** 30
 - **C++ Solutions:** 14
 - **Rust Solutions:** 13
 
@@ -31,6 +31,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [26Removeduplicatesfromsortedarray](Leetcode/PythonAnswers/Easy/26RemoveDuplicatesfromSortedArray.py)
 - [3069Distributeelementsintotwoarraysi](Leetcode/PythonAnswers/Easy/3069DistributeElementsIntoTwoArraysI.py)
 - [3507Minimumpairremovaltosortarray](Leetcode/PythonAnswers/Easy/3507MinimumPairRemovaltoSortArray.py)
+- [3622Checkdivisibilitybydigitsumandproduct](Leetcode/PythonAnswers/Easy/3622CheckDivisibilitybyDigitSumandProduct.py)
 - [70Climbingstairs](Leetcode/PythonAnswers/Easy/70ClimbingStairs.py)
 - [83Removedupssortedlist](Leetcode/PythonAnswers/Easy/83RemoveDupsSortedList.py)
 - [88Mergesortedarray](Leetcode/PythonAnswers/Easy/88MergeSortedArray.py)
@@ -78,6 +79,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [3069Distributeelementsintotwoarraysi](Leetcode/Java/Easy/3069DistributeElementsIntoTwoArraysI.java)
 - [3345Smallestdivisibledigitproducti](Leetcode/Java/Easy/3345SmallestDivisibleDigitProductI.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
+- [3622Checkdivisibilitybydigitsumandproduct](Leetcode/Java/Easy/3622CheckDivisibilitybyDigitSumandProduct.java)
 - [94Binarytreeinordertraversal](Leetcode/Java/Easy/94BinaryTreeInorderTraversal.java)
 - [9Palindromenumber](Leetcode/Java/Easy/9PalindromeNumber.java)
 - [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
