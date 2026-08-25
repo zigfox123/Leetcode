@@ -6,11 +6,11 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 
 ## 📊 Statistics
 
-- **Total Solutions:** 105
-- **Python Solutions:** 47
-- **Java Solutions:** 30
-- **C++ Solutions:** 15
-- **Rust Solutions:** 13
+- **Total Solutions:** 109
+- **Python Solutions:** 48
+- **Java Solutions:** 31
+- **C++ Solutions:** 16
+- **Rust Solutions:** 14
 
 ## 🐍 Python Solutions
 
@@ -32,6 +32,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [3069Distributeelementsintotwoarraysi](Leetcode/PythonAnswers/Easy/3069DistributeElementsIntoTwoArraysI.py)
 - [3507Minimumpairremovaltosortarray](Leetcode/PythonAnswers/Easy/3507MinimumPairRemovaltoSortArray.py)
 - [3622Checkdivisibilitybydigitsumandproduct](Leetcode/PythonAnswers/Easy/3622CheckDivisibilitybyDigitSumandProduct.py)
+- [3718Smallestmissingmultipleofk](Leetcode/PythonAnswers/Easy/3718SmallestMissingMultipleOfK.py)
 - [70Climbingstairs](Leetcode/PythonAnswers/Easy/70ClimbingStairs.py)
 - [83Removedupssortedlist](Leetcode/PythonAnswers/Easy/83RemoveDupsSortedList.py)
 - [88Mergesortedarray](Leetcode/PythonAnswers/Easy/88MergeSortedArray.py)
@@ -81,6 +82,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [3345Smallestdivisibledigitproducti](Leetcode/Java/Easy/3345SmallestDivisibleDigitProductI.java)
 - [3507Minimumpairremovaltosortarray](Leetcode/Java/Easy/3507MinimumPairRemovaltoSortArray.java)
 - [3622Checkdivisibilitybydigitsumandproduct](Leetcode/Java/Easy/3622CheckDivisibilitybyDigitSumandProduct.java)
+- [3718Smallestmissingmultipleofk](Leetcode/Java/Easy/3718SmallestMissingMultipleOfK.java)
 - [94Binarytreeinordertraversal](Leetcode/Java/Easy/94BinaryTreeInorderTraversal.java)
 - [9Palindromenumber](Leetcode/Java/Easy/9PalindromeNumber.java)
 - [Binarynumberalternating](Leetcode/Java/Easy/BinaryNumberAlternating.java)
@@ -106,6 +108,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [1Twosum](Leetcode/C++/Easy/1TwoSum.c++)
 - [3069Distributeelementsintotwoarraysi](Leetcode/C++/Easy/3069DistributeElementsIntoTwoArraysI.c++)
 - [3622Checkdivisibilitybydigitsumandproduct](Leetcode/C++/Easy/3622CheckDivisibilitybyDigitSumandProduct.c++)
+- [3718Smallestmissingmultipleofk](Leetcode/C++/Easy/3718SmallestMissingMultipleOfK.c++)
 - [9Ispalindrome](Leetcode/C++/Easy/9IsPalindrome.c++)
 - [Binarynumberalternating](Leetcode/C++/Easy/BinaryNumberAlternating.c++)
 - [Transformedarray](Leetcode/C++/Easy/TransformedArray.c++)
@@ -122,6 +125,7 @@ My solutions to LeetCode problems in Python, Java, C++, and Rust.
 - [20Validparentheses](Leetcode/Rust/Easy/20ValidParentheses.rs)
 - [26Removeduplicatesfromsortedarray](Leetcode/Rust/Easy/26RemoveDuplicatesfromSortedArray.rs)
 - [3069Distributeelementsintotwoarraysi](Leetcode/Rust/Easy/3069DistributeElementsIntoTwoArraysI.rs)
+- [3718Smallestmissingmultipleofk](Leetcode/Rust/Easy/3718SmallestMissingMultipleOfK.rs)
 - [Binarynumberalternating](Leetcode/Rust/Easy/BinaryNumberAlternating.rs)
 - [Romantointeger](Leetcode/Rust/Easy/RomantoInteger.rs)
 - [Twosum](Leetcode/Rust/Easy/TwoSum.rs)
